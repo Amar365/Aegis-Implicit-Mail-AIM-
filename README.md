@@ -1,9 +1,8 @@
 # Aegis Implicit Mail (AIM)
-Aegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports. 
-
-# Download
+# This library is hosted in Sourceforge, please use  https://sourceforge.net/projects/netimplicitssl/
 Binaries are available in the form of NuGet package:
 https://www.nuget.org/packages/AIM 
+Aegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports. 
 Please check https://sourceforge.net/projects/netimplicitssl/ for archive
 
 #Features
